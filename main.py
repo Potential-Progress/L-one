@@ -9,6 +9,7 @@ import argparse
 from PIL import Image
 
 
+
 def get_subdirs(b='.'):
     '''
         Returns all sub-directories in a specific Path
